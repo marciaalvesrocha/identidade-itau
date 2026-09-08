@@ -76,29 +76,4 @@ A tipografia foi testada sobre três fundos diferentes para garantir legibilidad
 2. **Fundo laranja primário** (`#FF6200`) — texto em branco (`#FFFFFF`)
 3. **Fundo escuro** (`#262323` — dark) — texto em laranja (`#FF6200`)
 
-## Estrutura de tokens sugerida
-
-\`\`\`json
-{
-  "cores": {
-    "primario": { "+1": "#FF8133", "base": "#FF6200", "-1": "#CC4E00" },
-    "secundario": { "+1": "#539AE9", "base": "#267FE3", "-1": "#1866BE" },
-    "dark": { "-1": "#0B0A0A", "base": "#262323", "+1": "#403B3B" },
-    "light": { "+1": "#FFFFFF", "base": "#F2F5F7", "-1": "#D3DDE4" },
-    "sucesso": { "+1": "#7BE085", "base": "#52D65F", "-1": "#2FC63E" },
-    "danger": { "+1": "#FF2705", "base": "#D11C00", "-1": "#9E1500" }
-  },
-  "tipografia": {
-    "fontFamily": "Poppins",
-    "fontScale": {
-      "small": "14px",
-      "paragrafo": "16px",
-      "h5": "18px",
-      "h4": "24px",
-      "h3": "28px",
-      "h2": "34px",
-      "h1": "40px"
-    }
-  }
-}
 \`\`\`
