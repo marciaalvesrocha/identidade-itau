@@ -40,7 +40,7 @@ Logo em fundo laranja (`#FF6200`), com o texto "itaú" em branco, em formato de 
 | Cor | Hex | Preview |
 |---|---|---|
 | Sucesso +1 | `#7BE085` | 🟩 |
-| Sucesso | `#52D65F` |
+| Sucesso | `#52D65F` | 🟩 |
 | Sucesso -1 | `#2FC63E` | 🟩 |
 
 ### Perigo (Danger)
